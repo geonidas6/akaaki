@@ -1,0 +1,7 @@
+{
+  "name": "Aka-aki Social Discovery",
+  "description": "A social discovery application that helps you connect with people and devices nearby based on your location and shared interests.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
